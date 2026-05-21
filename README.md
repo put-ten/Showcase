@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28089885/README.md)
 # 页面展示 · AI Agent 驱动的前端成果集
 
 > 通过 AI Agent 长链推理与多阶段协作，从零构建生产级前端页面。  
